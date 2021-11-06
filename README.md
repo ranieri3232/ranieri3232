@@ -28,8 +28,8 @@
 </br>
 
 ## 🖥 Languanges analytics
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranieri3232&show_icons=true&locale=en&layout=compact" alt="ranieri3232" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranieri3232&show_icons=true&locale=en&layout=compact" alt="ranieri3232" /></p>
 
 ## ⚙ Github stats
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ranieri3232&show_icons=true&locale=en" alt="ranieri3232" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ranieri3232&show_icons=true&locale=en" alt="ranieri3232" /></p>
 
