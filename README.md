@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **React**, **Node**, **ReactNative**, **NodeJS** with **Typescript**
+- 🌱 I’m currently learning **React**, **Node**, **ReactNative**, **Jest** with **Typescript**
 
 - 👨‍💻 I'm a computer technician, IFPB - Pícui
 
